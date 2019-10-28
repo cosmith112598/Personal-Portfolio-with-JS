@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 15px;
+    background-color: maroon;
+    color: #ffffff;
+}
+main {
+    margin: 0px;
+    width: 100%;
+    max-width: 1280px;
+    margin-bottom: 1.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, )minmax(320px, lfr));
+    grid-gap: 2rem;
+}
+h1 {
+    color: #ffc723;
+}
+
+p {
+    color: #ffffff;
+}
+
+section {
+    background-color:lightslategray;
+}
